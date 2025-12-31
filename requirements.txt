@@ -6,3 +6,6 @@ vpython==7.6.5
 plotly==6.3.0
 dash==3.2.0
 vispy==0.15.2
+p5==0.8.4
+jupyter_rfb==0.5.4
+glfw==2.10.0

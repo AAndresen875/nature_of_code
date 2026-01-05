@@ -1,0 +1,14 @@
+perlin-noise==1.13
+p5==0.8.4#may not be able to be imported rn bc the version number is outdated
+matplotlib==3.10.6
+pygame==2.6.1
+vpython==7.6.5
+plotly==6.3.0
+dash==3.2.0
+vispy==0.15.2
+p5==0.8.4
+jupyter_rfb==0.5.4
+glfw==2.10.0
+vispy==1.16.0
+PyOpenGL==3.1.10
+glfw==2.10.0
